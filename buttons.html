@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test page</title>
+  </head>
+  <body>
+
+  </body>
+  <script>
+  const a = Array.from(new Array(10),(val,index)=>index).map(el => el = el +1) //set up array of 1-10
+  const body = document.querySelector('body'); //we'll be appending buttons to the main body
+
+  a.forEach(function(el) { //create button for each number in array
+    // console.log(el);
+  	const button = document.createElement('button');
+    button.innerHTML = el;
+    button.addEventListener('click',function(e){ //add alert functionality to each button
+      alert(`${el}`);
+    });
+    body.appendChild(button);
+  });
+
+  </script>
+</html>

@@ -1,0 +1,12 @@
+a{
+  text-transform: uppercase;
+  color: blue;
+  cursor: help;
+}
+
+a:before{
+  content:'>';
+}
+a:after{
+  content:'<';
+}

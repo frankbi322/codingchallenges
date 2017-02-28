@@ -1,0 +1,33 @@
+Question 1: Your Personal Story
+
+At LinkedIn, we strive for a culture that embraces and represents diverse ways of thinking, background, and approaches to solving the world’s problems. Tell us about yourself, and what unique point of view, experiences, and background you bring to LinkedIn.
+
+I graduated from UC Berkeley with an Economics major, which led me to my initial career as a CPA. I was able to recognize many of my firm's inefficient workflow procedures, so I wrote simple excel formulas and scripts to automate them, and found methods in our software suites to import data instead of manual input. I also received very good mentorship from my seniors when I entered the profession, and I provided the same quality mentorship to incoming hires to help them succeed.
+
+I am also an avid volunteer. Throughout college and my career, I have participated in as many community service events as I could. In addition, even though I am leaving the tax profession, I will be helping low-income families with their tax returns through the Volunteer Income Tax Assistance program at my local YMCA this coming tax season.
+
+
+Question 2: Your Journey into Programming
+
+Tell us about your journey into programming, why you chose to go into it, and how you have or are attempting to transform yourself into a programmer.
+
+A few years ago, I learned about sites like Codecademy that offered free introductory courses in multiple languages and frameworks, such as Javascript, Python, and Ruby. I completed these courses in my spare time and started working on problems on Codewars and similar sites, and I really enjoyed the challenges they provided.
+
+I ultimately decided to enroll in App Academy, one of the nation's top coding bootcamps that only accepts 3% of its applicants, in order to further develop my skills and transition to a new career as a software developer.
+
+After I finished App Academy's program, I am still learning new frameworks and working on new projects to utilize them in order to become the best programmer I can be.
+
+
+Question 3: Your Coding “Awesomeness”
+
+Every engineer at LinkedIn writes code. Part of our evaluation process for this program is to understand your level of coding awesomeness. Show us something you’re proud of. Share a link to code you’ve written, point us to a website or product you’ve built, show us an open source project you’ve contributed to, tell us about your favorite problem that you solved, etc. Tell us why you’re proud of the code and what you enjoyed most about writing it. Really, just show off.
+
+I have built several web applications utilizing the various technical skills I had acquired over the past few years.
+
+One of my biggest projects that I have completed is runnr.site. I built it using the React/Redux framework. The site also utilizes the Google Maps API to allow users to create and save running routes in San Francisco to a PostgresQL database. On the backend, I used Ruby on Rails because it provided powerful Active Record methods to assist me with my API calls.
+
+I have also built a Google Chrome extension that webscrapes a NBA basketball player database and pulls a given player's current season NBA season stats and displays them on the current webpage.
+
+I am currently working on a bot on Slack that responds to users' messages using audio clips.
+
+My personal website, where links to all my projects can be found, is frankbi.us. The link to my github account, where the code for all of these projects can be found, is https://github.com/frankbi322

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Advanced form</title>
+</head>
+<body>
+  <form >
+    Formula: <input name="formula" list="data"><br />
+    Iterations: <input name="iterations" type="range" min="1" max="10"><br />
+    Precision: <input name="precision" type="number" min="1" max="100" value="50"><br />
+  </form>
+  <datalist id="data">
+    <option value="sin">
+    <option value="cos">
+    <option value="tan">
+    <option value="cot">
+  </datalist>
+</body>
+</html>
